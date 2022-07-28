@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages - Test creating a fake API provided via githubPages
 
 You can use the [editor on GitHub](https://github.com/4llex/soccer-news-api/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
